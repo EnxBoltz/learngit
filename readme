@@ -1,2 +1,3 @@
 git is a distributed  version control system.
-Git is free software under GRL.` 
+Git is free software under GRL.
+Git has a mutable index calleds stage. 
